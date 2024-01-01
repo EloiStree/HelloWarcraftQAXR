@@ -1,3 +1,8 @@
+![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/7183d9f0-e8be-440d-8813-8157d7751a48)
+
+------------------------------------------
+![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/c9f0972f-0b49-40b6-ab81-ff5ac2e35813)
+
 Hey hey.  
 Nice, you want to follow a guide on how to code :)  
 Perfect.  
