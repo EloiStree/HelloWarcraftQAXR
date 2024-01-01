@@ -10,8 +10,8 @@ But don't worry; you will quickly be able to read them or code them.
 
 So, in the waiting of having the level, we will try to use them.  
 
-But we start with the base of the base of coding.   
-I will teach you one thing:  
+To start with the base of the base of coding,   
+I first need to teach you one thing that look like a bit complexe:  
 "Send text message to an application."   
 
 
