@@ -1,3 +1,8 @@
+WARNING: Botting is again the game rules. If you are ban, that normal.   
+Don't bot on your main account.  Don't bot on the same battle net account if possible.  
+ 
+---------------------
+
 ![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/b3ee0283-6340-49aa-bdbb-ba45d3df157b)
 
   
