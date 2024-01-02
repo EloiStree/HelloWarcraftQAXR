@@ -1,8 +1,9 @@
 ![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/b3ee0283-6340-49aa-bdbb-ba45d3df157b)
 
-![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/6fb3bfe9-ed20-4254-a0ec-c79aa70cf028)
-(_(In the image, you see the two camp you should not use. Because that where players will do the first Quests. with Grel)_)
-
+  
+Big note: They are fast way to level up. What I am proposing here are slow way but with low risk of ban.  
+If you use this spot, expect to level up from 1-15 in one full night. 15-20 in one full day and 1-30-35 in one or two day depending on how you manage your position and groups.  
+A faster way to level up is the Boralus elite spot. But you risk all the time to fall on other bots that want to farm andd will report you (or players).   
 
 At Shadow Glen you have one of the best spot of leveling level 1-35.
 Why ?
@@ -30,5 +31,8 @@ Here where is the camp:
 
 
 Use `/target Grellkin` to select the enemy to attack.
+
+
+
 
 
