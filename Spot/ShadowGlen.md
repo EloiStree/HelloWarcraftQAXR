@@ -1,6 +1,9 @@
 ![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/b3ee0283-6340-49aa-bdbb-ba45d3df157b)
 
 ![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/6fb3bfe9-ed20-4254-a0ec-c79aa70cf028)
+(_(In the image, you see the two camp you should not use. Because that where players will do the first Quests. with Grel)_)
+
+
 At Shadow Glen you have one of the best spot of leveling level 1-35.
 Why ?
 
