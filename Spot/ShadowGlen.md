@@ -38,5 +38,20 @@ If you use this spot, expect to level up from 1-15 in one full night. 15-20 in o
 A faster way to level up is the Boralus elite spot. But you risk all the time to fall on other bots that want to farm andd will report you (or players)._
 
 
+## Position
+
+![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/ad24827b-50d7-44d4-8706-45c6cd621b62)
+
+Here the minimum is a group B position with 5 people farming the zone.
+And if you want to have more that 4-5 characters. you can spread the other on the group A to kill the far aways mobs.
+
+
+In the group B, the minimum covert zone are here:   
+![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/022b2823-8da9-4903-a2d9-5bda42e8fc4a)
+You need to think about ways to covert behind and the side of the baraquement.   
+But also to have enough power in the camp to avoid dying when you sleep.  
+
+
+
 
 
