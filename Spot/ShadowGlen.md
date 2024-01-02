@@ -23,8 +23,10 @@ What are you looking for when you want to level up
 
   
 
-Here where is the camp:
-![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/fb7257e0-e861-4f23-9d6b-962a05789aeb)
+Here where is the camp:  
+![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/fb7257e0-e861-4f23-9d6b-962a05789aeb)  
+![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/40ebe122-7272-4cf8-9f3c-ca0473f0c62f)
+
 
 
 Use `/target Grellkin` to select the enemy to attack.
