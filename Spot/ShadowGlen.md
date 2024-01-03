@@ -1,5 +1,7 @@
 WARNING: Botting is again the game rules. If you are ban, that normal (as you should be).  
 Don't bot on your main account.  Don't bot on the same battle net account if possible.    
+
+NOTE: Avoid player time zone. Try to level up bot when most people are asleep.
  
 ---------------------
 
