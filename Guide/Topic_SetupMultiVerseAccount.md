@@ -30,4 +30,24 @@ But here we will go on the level 10 level up.
 - You have now skip the tutorial, let's try to be level 10.
   - Find a place with easy mobs to kill that respond when you have kill them all (or quickly enough.)
     - For me it is in the elf shadow glen with the Grell
-  -  
+  - Setup the last target key to be able to select dead body from time to time
+  - Setup the interaction key to interact with the body
+  - Setup a macro to target the enemy you want to hunt
+  - Add macro to zero
+  - Add the pet attack to four
+  - Add the power you want to use on 1 2 3 4
+  - Create a python macro that use tab, 0 and 1234+  with a 1.9 seconds delay.
+  - Wait until level 10 and overview if player are around to avoid report.
+  - Work on it or sleep on it and manage the exception
+    - gear are broken and that block you from attacking
+    - you character agro to much target
+    - you character don't win xp enough
+    - ...
+- When you are level 10, go to the capital learn fishing
+- Go in BFA with the quest and skip it if you did it as ask ealier
+- Find a good spot to fish that don't say "I am a bot" but that is away of the community
+  - Alliance Drustval has double the chance of great sea ray (in theory)
+- The first thing you will need to do is fish enough random fish to buy 4 bags on a mammouth at 16 po per bag
+
+Fishing the Great Sea Ray: 
+-    
