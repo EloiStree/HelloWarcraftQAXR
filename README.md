@@ -4,6 +4,12 @@ Learn coding by creating bots and scripts for QA on WoW and other games through 
 
 -----------------------------------------------
 
+Want to learn code by hacking game but want to do it without harm:  
+[![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/d88c8be3-38ee-49aa-9df7-988ff705e189)](https://hordes.io/play  )  
+https://hordes.io/play    
+
+-----------------------------------------------
+
 # Introduction
 
 Welcome.
