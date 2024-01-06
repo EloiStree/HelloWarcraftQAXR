@@ -61,5 +61,6 @@ Fishing the Great Sea Ray:
 Note: 
 - To play in russia you need to set the game language in Russian.
   - Not need to change battle net or create a russian account from what I tried.
-  -  
+  - Create a character then change language to english don't work. If you plan to have a Russian account you will have to use a dedicated computer.
+    
 
