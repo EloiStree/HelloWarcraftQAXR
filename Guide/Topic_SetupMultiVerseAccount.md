@@ -51,3 +51,15 @@ But here we will go on the level 10 level up.
 
 Fishing the Great Sea Ray: 
 -    
+
+
+
+
+
+---------------------
+
+Note: 
+- To play in russia you need to set the game language in Russian.
+  - Not need to change battle net or create a russian account from what I tried.
+  -  
+
