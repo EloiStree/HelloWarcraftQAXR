@@ -1,0 +1,2 @@
+- Bot Guild: https://worldofwarcraft.blizzard.com/en-gb/guild/eu/silvermoon/rirando-piwu
+  - Bot: https://worldofwarcraft.blizzard.com/en-gb/character/eu/silvermoon/vaynei
