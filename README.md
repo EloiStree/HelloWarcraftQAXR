@@ -5,9 +5,9 @@
 > So I also work on how we can report and destroy people botting in game.  
 >  
 > Have fun learning how to bot in World of Warcraft with me :)  
-> And don't forget to report people botting around you (O_O' )
-> Read on the topic: https://github.com/EloiStree/HelloWarcraftQAXR/issues?q=Anti-bot
-
+> And don't forget to report people botting around you (O_O' )  
+> Read on the topic: https://github.com/EloiStree/HelloWarcraftQAXR/issues?q=Anti-bot  
+ 
 
 Learn coding by creating bots and scripts for QA on WoW and other games through XR.
 ![image](https://github.com/EloiStree/HelloWarcraftQAXR/assets/20149493/ce6094df-2123-4e45-af60-b55186601676)
