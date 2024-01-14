@@ -1,0 +1,29 @@
+-2511|281|-10697|Swamp of Sorrows - Purespring Cavern: 17.2, 69.4
+-2514|282|-10698|Swamp of Sorrows - Purespring Cavern: 17.3, 69.5
+-2518|283|-10699|Swamp of Sorrows - Purespring Cavern: 17.4, 69.6-2640|112|-10376|Swamp of Sorrows - Splinterspear Junction: 22.3, 50.3
+-2638|112|-10374|Swamp of Sorrows - Splinterspear Junction: 22.2, 50.1
+-2635|113|-10371|Swamp of Sorrows - Splinterspear Junction: 22.1, 50.0
+-2544|136|-10273|Swamp of Sorrows - Misty Valley: 18.5, 44.1
+-2542|137|-10272|Swamp of Sorrows - Misty Valley: 18.4, 44.0
+-2538|138|-10268|Swamp of Sorrows - Misty Valley: 18.2, 43.8
+-2506|146|-10234|Swamp of Sorrows - Misty Valley: 17.0, 41.8
+-2809|162|-10122|Swamp of Sorrows - The Harborage: 29.0, 35.1
+-2812|162|-10121|Swamp of Sorrows - The Harborage: 29.2, 35.0
+-2934|147|-10141|Swamp of Sorrows - The Harborage: 34.0, 36.2
+-2937|147|-10143|Swamp of Sorrows - The Harborage: 34.1, 36.3
+-3287|104|-10433|Swamp of Sorrows - Stonard: 48.1, 53.7
+-3288|104|-10436|Swamp of Sorrows - Stonard: 48.1, 53.9
+-3682|128|-10590|Swamp of Sorrows: 63.8, 63.1
+-3685|128|-10592|Swamp of Sorrows: 64.0, 63.2
+-3776|109|-10696|Swamp of Sorrows: 67.6, 69.4
+-3776|109|-10699|Swamp of Sorrows - Stagalbog: 67.6, 69.6
+-4042|63|-11008|Swamp of Sorrows - Misty Reed Strand: 78.2, 88.1
+-4039|63|-11010|Swamp of Sorrows - Misty Reed Strand: 78.1, 88.2
+-4076|96|-10921|Swamp of Sorrows - Misty Reed Strand: 79.5, 82.9
+-4077|97|-10918|Swamp of Sorrows - Misty Reed Strand: 79.6, 82.7
+-4171|123|-10617|Swamp of Sorrows - Sorrowmurk: 83.3, 64.7
+-4172|123|-10614|Swamp of Sorrows - Sorrowmurk: 83.4, 64.5
+-3824|213|-10185|Swamp of Sorrows - Marshtide Watch: 69.5, 38.8
+-3821|213|-10182|Swamp of Sorrows - Marshtide Watch: 69.4, 38.7
+-3901|275|-9745|Swamp of Sorrows - Bogpaddle: 72.6, 12.5
+-3902|275|-9741|Swamp of Sorrows - Bogpaddle: 72.6, 12.3
