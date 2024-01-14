@@ -1,0 +1,73 @@
+-955|160|-9995|Duskwood - The Darkened Bank: 66.3, 15.5
+-956|160|-9998|Duskwood - The Darkened Bank: 66.3, 15.7
+-956|160|-10001|Duskwood - The Darkened Bank: 66.3, 15.8
+-956|160|-10004|Duskwood - The Darkened Bank: 66.3, 16.0
+-956|160|-10006|Duskwood - The Darkened Bank: 66.3, 16.1
+-956|160|-10008|Duskwood - The Darkened Bank: 66.3, 16.2
+-956|160|-10010|Duskwood - The Darkened Bank: 66.3, 16.3
+-957|159|-10014|Duskwood - The Darkened Bank: 66.3, 16.5
+-1010|145|-10146|Duskwood - Brightwood Grove: 68.3, 23.9
+-1012|145|-10147|Duskwood - Brightwood Grove: 68.4, 23.9
+-1016|145|-10151|Duskwood - Brightwood Grove: 68.5, 24.1
+-1018|144|-10153|Duskwood - Brightwood Grove: 68.6, 24.3
+-1021|144|-10155|Duskwood - Brightwood Grove: 68.7, 24.4
+-1024|143|-10158|Duskwood - Brightwood Grove: 68.8, 24.5
+-1027|143|-10160|Duskwood - Brightwood Grove: 68.9, 24.7
+-1029|142|-10162|Duskwood - Brightwood Grove: 69.0, 24.8
+-1231|136|-10354|Duskwood - Manor Mistmantle: 76.5, 35.5
+-1233|136|-10359|Duskwood - Manor Mistmantle: 76.6, 35.7
+-1235|137|-10362|Duskwood - Manor Mistmantle: 76.6, 35.9
+-1238|137|-10365|Duskwood - Manor Mistmantle: 76.7, 36.0
+-1240|138|-10368|Duskwood - Manor Mistmantle: 76.8, 36.2
+-1242|138|-10371|Duskwood - Manor Mistmantle: 76.9, 36.4
+-1243|139|-10374|Duskwood - Manor Mistmantle: 76.9, 36.5
+-1245|140|-10377|Duskwood - Manor Mistmantle: 77.0, 36.7
+-1469|150|-10379|Duskwood - Beggar's Haunt: 85.3, 36.8
+-1470|150|-10375|Duskwood - Beggar's Haunt: 85.3, 36.6
+-1471|149|-10372|Duskwood - Beggar's Haunt: 85.4, 36.4
+-1472|149|-10368|Duskwood - Beggar's Haunt: 85.4, 36.2
+-1473|149|-10365|Duskwood - Beggar's Haunt: 85.4, 36.0
+-1474|149|-10361|Duskwood - Beggar's Haunt: 85.5, 35.8
+-1475|150|-10358|Duskwood - Beggar's Haunt: 85.5, 35.7
+-1483|146|-10390|Duskwood - Beggar's Haunt: 85.8, 37.4
+-1484|145|-10394|Duskwood - Beggar's Haunt: 85.8, 37.7
+-1336|114|-10877|Duskwood - Tranquil Gardens Cemetery: 80.4, 64.5
+-1337|114|-10881|Duskwood - Tranquil Gardens Cemetery: 80.4, 64.7
+-1337|114|-10883|Duskwood - Tranquil Gardens Cemetery: 80.4, 64.8
+-1338|114|-10888|Duskwood - Tranquil Gardens Cemetery: 80.4, 65.1
+-1338|114|-10892|Duskwood - Tranquil Gardens Cemetery: 80.4, 65.3
+-939|127|-11038|Duskwood - The Rotting Orchard: 65.6, 73.4
+-937|127|-11041|Duskwood - The Rotting Orchard: 65.6, 73.6
+-937|127|-11045|Duskwood - The Rotting Orchard: 65.6, 73.8
+-937|128|-11049|Duskwood - The Rotting Orchard: 65.6, 74.0
+-938|128|-11052|Duskwood - The Rotting Orchard: 65.6, 74.2
+-657|115|-11069|Duskwood - The Yorgen Farmstead: 55.2, 75.2
+-654|114|-11069|Duskwood - The Yorgen Farmstead: 55.1, 75.2
+-650|114|-11069|Duskwood - The Yorgen Farmstead: 55.0, 75.2
+-646|114|-11069|Duskwood - The Yorgen Farmstead: 54.8, 75.2
+-643|114|-11069|Duskwood - The Yorgen Farmstead: 54.7, 75.1
+-432|226|-10619|Duskwood - Twilight Grove: 46.9, 50.1
+-433|224|-10615|Duskwood - Twilight Grove: 46.9, 50.0
+-434|223|-10612|Duskwood - Twilight Grove: 46.9, 49.8
+-435|221|-10609|Duskwood - Twilight Grove: 47.0, 49.6
+-436|220|-10606|Duskwood - Twilight Grove: 47.0, 49.4
+-241|226|-10966|Duskwood - Vul'Gol Ogre Mound: 39.8, 69.4
+-239|226|-10969|Duskwood - Vul'Gol Ogre Mound: 39.7, 69.6
+-237|226|-10972|Duskwood - Vul'Gol Ogre Mound: 39.7, 69.8
+-235|226|-10976|Duskwood - Vul'Gol Ogre Mound: 39.6, 70.0
+-233|226|-10979|Duskwood - Vul'Gol Ogre Mound: 39.5, 70.1
+44|194|-11056|Duskwood - Addle's Stead: 29.2, 74.4
+46|194|-11056|Duskwood - Addle's Stead: 29.1, 74.4
+51|194|-11057|Duskwood - Addle's Stead: 29.0, 74.5
+55|193|-11058|Duskwood - Addle's Stead: 28.8, 74.6
+58|193|-11059|Duskwood - Addle's Stead: 28.7, 74.6
+165|167|-10572|Duskwood - Raven Hill Cemetery: 24.7, 47.5
+169|166|-10570|Duskwood - Raven Hill Cemetery: 24.6, 47.5
+172|165|-10569|Duskwood - Raven Hill Cemetery: 24.5, 47.4
+175|165|-10567|Duskwood - Raven Hill Cemetery: 24.4, 47.3
+178|164|-10566|Duskwood - Raven Hill Cemetery: 24.2, 47.2
+560|105|-10376|Duskwood - The Hushed Bank: 10.1, 36.6
+562|105|-10374|Duskwood - The Hushed Bank: 10.0, 36.5
+602|101|-10348|Duskwood - The Hushed Bank: 8.5, 35.1
+605|101|-10346|Duskwood - The Hushed Bank: 8.4, 35.0
+608|101|-10344|Duskwood - The Hushed Bank: 8.3, 34.9
