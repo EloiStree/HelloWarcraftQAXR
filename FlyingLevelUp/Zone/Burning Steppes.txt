@@ -1,0 +1,22 @@
+-2574|262|-8512|Burning Steppes - Blackrock Pass: 66.9, 72.7
+-2577|262|-8509|Burning Steppes - Blackrock Pass: 67.0, 72.6
+-2579|262|-8506|Burning Steppes - Blackrock Pass: 67.1, 72.4
+-2610|266|-8470|Burning Steppes - Blackrock Pass: 68.1, 70.7
+-2674|274|-8395|Burning Steppes - Morgan's Vigil: 70.1, 67.1
+-2675|274|-8393|Burning Steppes - Morgan's Vigil: 70.2, 67.0
+-2766|286|-8286|Burning Steppes - Morgan's Vigil: 73.0, 61.9
+-2770|286|-8281|Burning Steppes - Morgan's Vigil: 73.2, 61.7
+-2696|288|-7858|Burning Steppes - Dreadmaul Rock: 70.8, 41.6
+-2692|288|-7859|Burning Steppes - Dreadmaul Rock: 70.7, 41.6
+-2208|159|-7694|Burning Steppes - Ruins of Thaurissan: 55.3, 33.8
+-2211|159|-7696|Burning Steppes - Ruins of Thaurissan: 55.4, 33.9
+-1881|177|-7968|Burning Steppes - Chiselgrip: 45.0, 46.8
+-1877|177|-7968|Burning Steppes - Chiselgrip: 44.8, 46.8
+-1784|202|-7927|Burning Steppes - Fields of Honor: 41.9, 44.8
+-1784|203|-7930|Burning Steppes - Fields of Honor: 41.9, 45.0
+-1737|250|-8023|Burning Steppes - Black Tooth Hovel: 40.4, 49.4
+-1739|250|-8025|Burning Steppes - Black Tooth Hovel: 40.5, 49.5
+-1250|218|-8019|Burning Steppes - Blackrock Mountain: 24.9, 49.2
+-1249|218|-8017|Burning Steppes - Blackrock Mountain: 24.9, 49.2
+-767|333|-7722|Burning Steppes - Altar of Storms: 9.6, 35.1
+-767|333|-7719|Burning Steppes - Altar of Storms: 9.6, 34.9
