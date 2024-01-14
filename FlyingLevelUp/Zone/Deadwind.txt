@@ -1,0 +1,10 @@
+-1817|430|-11180|Deadwind Pass: 39.4, 78.8
+-1821|430|-11179|Deadwind Pass - Karazhan: 39.5, 78.8
+-1963|439|-11149|Deadwind Pass - Karazhan: 45.2, 77.0
+-1960|438|-11150|Deadwind Pass - Karazhan: 45.1, 77.0
+-2267|457|-11085|Deadwind Pass - The Vice: 57.3, 73.1
+-2270|457|-11084|Deadwind Pass - The Vice: 57.5, 73.1
+-1339|190|-10672|Duskwood: 80.5, 53.1
+-1337|189|-10668|Duskwood: 80.4, 52.9
+-1692|95|-10465|Deadwind Pass - Deadman's Crossing: 34.4, 35.9
+-1693|83|-10464|Deadwind Pass - Deadman's Crossing: 34.4, 35.9
