@@ -1,0 +1,33 @@
+942|90|-9866|Westfall - The Jansen Stead: 59.3, 20.0
+944|90|-9863|Westfall - The Jansen Stead: 59.2, 19.8
+946|90|-9860|Westfall - The Jansen Stead: 59.2, 19.7
+1233|95|-9884|Westfall - Furlbrow's Pumpkin Farm: 50.9, 20.8
+1237|95|-9885|Westfall - Furlbrow's Pumpkin Farm: 50.8, 20.8
+1240|95|-9885|Westfall - Furlbrow's Pumpkin Farm: 50.7, 20.8
+1383|103|-9878|Westfall - Jangolode Mine: 46.7, 20.5
+1387|104|-9878|Westfall - Jangolode Mine: 46.6, 20.5
+1390|104|-9878|Westfall - Jangolode Mine: 46.5, 20.5
+1419|130|-10161|Westfall - The Molsen Farm: 45.6, 32.6
+1419|130|-10164|Westfall - The Molsen Farm: 45.6, 32.8
+1419|130|-10168|Westfall - The Molsen Farm: 45.6, 32.9
+1146|125|-10141|Westfall - Saldean's Farm: 53.4, 31.8
+1143|125|-10140|Westfall - Saldean's Farm: 53.5, 31.7
+1139|125|-10139|Westfall - Saldean's Farm: 53.6, 31.7
+989|91|-10373|Westfall - Sentinel Hill: 57.9, 41.7
+989|91|-10377|Westfall - Sentinel Hill: 57.9, 41.9
+988|91|-10380|Westfall - Sentinel Hill: 58.0, 42.0
+724|124|-10712|Westfall - The Dead Acre: 65.5, 56.2
+724|124|-10716|Westfall - The Dead Acre: 65.5, 56.4
+724|124|-10719|Westfall - The Dead Acre: 65.5, 56.6
+635|127|-10997|Westfall - The Dust Plains: 68.0, 68.5
+634|127|-11001|Westfall - The Dust Plains: 68.1, 68.6
+632|127|-11004|Westfall - The Dust Plains: 68.1, 68.8
+1189|120|-11090|Westfall - The Dagger Hills: 52.2, 72.4
+1192|120|-11090|Westfall - The Dagger Hills: 52.1, 72.4
+1196|120|-11090|Westfall - The Dagger Hills: 52.0, 72.4
+1357|121|-11080|Westfall - Moonbrook: 47.4, 72.0
+1361|121|-11080|Westfall - Moonbrook: 47.3, 72.0
+1365|121|-11080|Westfall - Moonbrook: 47.2, 72.0
+1736|154|-10850|Westfall - Alexston Farmstead: 36.6, 62.2
+1739|155|-10849|Westfall - Alexston Farmstead: 36.5, 62.1
+1742|155|-10848|Westfall - Alexston Farmstead: 36.4, 62.1
