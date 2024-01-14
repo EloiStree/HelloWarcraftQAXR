@@ -1,0 +1,33 @@
+
+-3532|318|-9602|Redridge Mountains: 79.9, 63.5
+-3529|318|-9603|Redridge Mountains: 79.8, 63.6
+-3316|327|-9667|Redridge Mountains - Render's Valley: 71.5, 67.3
+-3313|328|-9668|Redridge Mountains - Render's Valley: 71.4, 67.4
+-2732|352|-9756|Redridge Mountains - Lakeridge Highway: 48.8, 72.5
+-2729|353|-9754|Redridge Mountains - Lakeridge Highway: 48.7, 72.4
+-2828|371|-9403|Redridge Mountains - Camp Everstill: 52.5, 51.9
+-2830|370|-9400|Redridge Mountains - Camp Everstill: 52.6, 51.7
+-2974|349|-9386|Redridge Mountains - Stonewatch: 58.2, 50.9
+-2974|349|-9386|Redridge Mountains - Stonewatch: 58.4, 50.9
+-3213|242|-9453|Redridge Mountains - Stonewatch Falls: 67.5, 54.8
+-3217|241|-9453|Redridge Mountains - Stonewatch Falls: 67.7, 54.8
+-3273|222|-9333|Redridge Mountains - Galardell Valley: 69.9, 47.8
+-3275|222|-9329|Redridge Mountains - Galardell Valley: 69.9, 47.6
+-3203|230|-9194|Redridge Mountains - Galardell Valley: 67.1, 39.7
+-3201|230|-9191|Redridge Mountains - Galardell Valley: 67.1, 39.5
+-3066|237|-9162|Redridge Mountains - Keeshan's Post: 61.8, 37.8
+-3063|237|-9162|Redridge Mountains - Keeshan's Post: 61.7, 37.8
+-2871|104|-9471|Redridge Mountains: 54.2, 55.9
+-2868|102|-9471|Redridge Mountains: 54.1, 55.9
+-2708|137|-9251|Redridge Mountains - Alther's Mill: 47.9, 43.0
+-2708|138|-9247|Redridge Mountains - Alther's Mill: 47.9, 42.8
+-2227|221|-9162|Redridge Mountains - Lakeshire: 29.1, 37.9
+-2224|221|-9164|Redridge Mountains - Lakeshire: 29.0, 37.9
+-2025|285|-9559|Redridge Mountains - Three Corners: 21.3, 61.0
+-2024|285|-9562|Redridge Mountains - Three Corners: 21.2, 61.2
+-2016|238|-9117|Redridge Mountains - Redridge Canyons: 20.9, 35.2
+-2017|236|-9114|Redridge Mountains - Redridge Canyons: 21.0, 35.0
+-2183|237|-8890|Redridge Mountains - Yowler's Den: 27.4, 22.0
+-2186|237|-8889|Redridge Mountains - Yowler's Den: 27.6, 21.9
+-2426|240|-8724|Redridge Mountains - Render's Camp: 36.9, 12.2
+-2422|238|-8724|Redridge Mountains - Render's Camp: 36.7, 12.3
