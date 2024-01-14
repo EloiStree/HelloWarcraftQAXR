@@ -1,0 +1,77 @@
+914|119|-11814|Northern Stranglethorn - Zuuldaia Ruins: 20.2, 29.2
+910|119|-11814|Northern Stranglethorn - Zuuldaia Ruins: 20.3, 29.2
+908|119|-11814|Northern Stranglethorn - Zuuldaia Ruins: 20.4, 29.2
+903|120|-11814|Northern Stranglethorn - Zuuldaia Ruins: 20.5, 29.2
+-446|156|-11806|Northern Stranglethorn: 53.4, 28.9
+-449|156|-11808|Northern Stranglethorn - Lake Nazferiti: 53.5, 29.0
+-452|155|-11810|Northern Stranglethorn - Lake Nazferiti: 53.6, 29.1
+-455|155|-11812|Northern Stranglethorn - Lake Nazferiti: 53.7, 29.1
+-688|151|-11879|Northern Stranglethorn - Venture Co. Base Camp: 59.3, 31.6
+-689|150|-11883|Northern Stranglethorn - Venture Co. Base Camp: 59.3, 31.7
+-689|148|-11886|Northern Stranglethorn - Venture Co. Base Camp: 59.4, 31.8
+-690|147|-11889|Northern Stranglethorn - Venture Co. Base Camp: 59.4, 31.9
+-34|109|-12084|Northern Stranglethorn: 43.4, 39.1
+-30|109|-12086|Northern Stranglethorn: 43.3, 39.1
+10|107|-12108|Northern Stranglethorn - Kal'ai Ruins: 42.3, 40.0
+13|107|-12110|Northern Stranglethorn - Kal'ai Ruins: 42.2, 40.0
+17|106|-12112|Northern Stranglethorn - Kal'ai Ruins: 42.1, 40.1
+401|98|-12205|Northern Stranglethorn - The Vile Reef: 32.7, 43.5
+405|98|-12205|Northern Stranglethorn - The Vile Reef: 32.6, 43.5
+409|98|-12204|Northern Stranglethorn - The Vile Reef: 32.6, 43.5
+323|20|-12367|Northern Stranglethorn - The Vile Reef: 34.6, 49.4
+321|22|-12366|Northern Stranglethorn - The Vile Reef: 34.7, 49.4
+318|25|-12365|Northern Stranglethorn - Grom'gol Base Camp: 34.8, 49.4
+-206|87|-12441|Northern Stranglethorn - Mizjah Ruins: 47.6, 52.1
+-209|87|-12443|Northern Stranglethorn - Mizjah Ruins: 47.6, 52.2
+-212|87|-12445|Northern Stranglethorn - Mizjah Ruins: 47.7, 52.3
+-646|103|-12572|Northern Stranglethorn - Balia'mah Ruins: 58.3, 56.9
+-649|104|-12573|Northern Stranglethorn - Balia'mah Ruins: 58.4, 57.0
+-653|104|-12574|Northern Stranglethorn - Balia'mah Ruins: 58.5, 57.0
+-691|113|-12900|Northern Stranglethorn - Ruins of Zul'Mamwe: 59.4, 68.9
+-689|112|-12902|Northern Stranglethorn - Ruins of Zul'Mamwe: 59.3, 69.0
+-686|112|-12904|Northern Stranglethorn - Ruins of Zul'Mamwe: 59.3, 69.1
+-437|97|-12849|Northern Stranglethorn - Fort Livingston: 53.2, 67.1
+-434|97|-12847|Northern Stranglethorn - Fort Livingston: 53.1, 67.0
+-431|96|-12845|Northern Stranglethorn - Fort Livingston: 53.1, 66.9
+-368|79|-13306|The Cape of Stranglethorn - Crystalvein Mine: 62.8, 30.0
+-364|80|-13308|The Cape of Stranglethorn - Crystalvein Mine: 62.7, 30.1
+-361|80|-13309|The Cape of Stranglethorn - Crystalvein Mine: 62.6, 30.1
+-90|109|-13250|The Cape of Stranglethorn - Cape of Stranglethorn: 55.7, 27.9
+-88|112|-13251|The Cape of Stranglethorn - Cape of Stranglethorn: 55.7, 27.9
+-85|115|-13251|The Cape of Stranglethorn - Cape of Stranglethorn: 55.6, 27.9
+704|59|-13278|The Cape of Stranglethorn - Hardwrench Hideaway: 35.6, 28.9
+706|59|-13281|The Cape of Stranglethorn - Hardwrench Hideaway: 35.5, 29.1
+708|59|-13284|The Cape of Stranglethorn - Hardwrench Hideaway: 35.5, 29.2
+-416|171|-13696| H*w%
+-457|170|-13663|None
+-375|147|-13671|The Cape of Stranglethorn - Ruins of Aboraz: 62.9, 43.9
+-16|225|-13862|The Cape of Stranglethorn - Mistvale Valley: 53.9, 51.2
+-19|226|-13865|The Cape of Stranglethorn - Mistvale Valley: 53.9, 51.2
+-21|227|-13867|The Cape of Stranglethorn - Mistvale Valley: 54.0, 51.3
+347|235|-13879|The Cape of Stranglethorn - Nek'mani Wellspring: 44.6, 51.8
+350|235|-13879|The Cape of Stranglethorn - Nek'mani Wellspring: 44.5, 51.8
+354|235|-13878|The Cape of Stranglethorn - Nek'mani Wellspring: 44.5, 51.8
+701|74|-14231|The Cape of Stranglethorn - Janeiro's Point: 35.7, 65.2
+698|73|-14234|The Cape of Stranglethorn - Janeiro's Point: 35.7, 65.3
+694|73|-14236|The Cape of Stranglethorn - Janeiro's Point: 35.8, 65.4
+692|73|-14237|The Cape of Stranglethorn - Janeiro's Point: 35.9, 65.4
+405|82|-14689|The Cape of Stranglethorn - Wild Shore: 43.2, 82.6
+404|80|-14692|The Cape of Stranglethorn - Wild Shore: 43.2, 82.7
+-146|80|-14674|The Cape of Stranglethorn - Jaguero Isle: 57.1, 82.0
+-150|81|-14674|The Cape of Stranglethorn - Jaguero Isle: 57.2, 82.0
+-1861|438|-12701|Northern Stranglethorn - Zul'Gurub: 87.9, 61.6
+-1860|438|-12698|Northern Stranglethorn - Zul'Gurub: 87.9, 61.5
+-993|525|-12459|Northern Stranglethorn - Mosh'Ogg Ogre Mound: 66.8, 52.8
+-990|525|-12458|Northern Stranglethorn - Mosh'Ogg Ogre Mound: 66.7, 52.7
+-940|511|-12172|Northern Stranglethorn - Mosh'Ogg Ogre Mound: 65.5, 42.3
+-939|511|-12167|Northern Stranglethorn - Mosh'Ogg Ogre Mound: 65.4, 42.1
+-806|517|-11578|Northern Stranglethorn - Kurzen's Compound: 62.2, 20.5
+-805|517|-11574|Northern Stranglethorn - Kurzen's Compound: 62.2, 20.4
+-254|489|-11389|Northern Stranglethorn: 48.7, 13.6
+-252|489|-11386|Northern Stranglethorn: 48.7, 13.5
+-96|444|-11609|Northern Stranglethorn - Nesingwary's Expedition: 44.9, 21.7
+-95|444|-11610|Northern Stranglethorn - Nesingwary's Expedition: 44.8, 21.7
+391|271|-11944|Northern Stranglethorn: 33.0, 33.9
+388|269|-11945|Northern Stranglethorn - Bal'lal Ruins: 33.1, 34.0
+557|299|-11688|Northern Stranglethorn - Ruins of Zul'Kunda: 28.9, 24.6
+559|299|-11685|Northern Stranglethorn - Ruins of Zul'Kunda: 28.9, 24.5
