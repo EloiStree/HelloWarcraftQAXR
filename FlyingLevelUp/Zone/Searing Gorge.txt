@@ -1,0 +1,17 @@
+
+-747|417|-7294|Searing Gorge - Blackchar Cave: 19.0, 80.3
+-746|418|-7291|Searing Gorge - Blackchar Cave: 19.0, 80.1
+-723|507|-6841|Searing Gorge - Firewatch Ridge: 17.9, 49.8
+-722|508|-6837|Searing Gorge - Firewatch Ridge: 17.9, 49.6
+-1424|700|-6671|Searing Gorge - Pyrox Flats: 49.4, 38.4
+-1422|700|-6674|Searing Gorge - Pyrox Flats: 49.3, 38.6
+-1097|699|-6910|Searing Gorge - The Cauldron: 34.7, 54.5
+-1099|700|-6913|Searing Gorge - The Cauldron: 34.8, 54.7
+-1179|727|-7050|Searing Gorge - Iron Summit: 38.4, 63.9
+-1181|728|-7054|Searing Gorge - Iron Summit: 38.5, 64.1
+-1477|673|-7283|Searing Gorge - The Sea of Cinders: 51.7, 79.5
+-1480|672|-7282|Searing Gorge - The Sea of Cinders: 51.9, 79.5
+-1827|535|-7087|Searing Gorge - Grimesilt Dig Site: 67.4, 66.4
+-1829|535|-7084|Searing Gorge - Grimesilt Dig Site: 67.5, 66.2
+-1935|482|-6664|Searing Gorge: 72.3, 37.9
+-1936|481|-6660|Searing Gorge: 72.3, 37.7
