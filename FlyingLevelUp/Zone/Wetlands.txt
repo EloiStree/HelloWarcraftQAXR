@@ -8,3 +8,9 @@
 -2774|67|-3218|Wetlands - Greenwarden's Grove: 57.7, 38.8
 -2422|102|-3518|Wetlands - Angerfang Encampment: 49.2, 49.7
 -1561|189|-3607|Wetlands: 28.3, 53.0
+
+-3098|552|-3793|Wetlands - Mosshide Fen: 65.5, 59.7
+-3579|133|-3405|Wetlands - Dragonmaw Gates: 77.1, 45.6
+-3462|149|-3399|Wetlands - Raptor Ridge: 74.3, 45.4
+-3357|171|-3396|Wetlands: 71.8, 45.3
+
