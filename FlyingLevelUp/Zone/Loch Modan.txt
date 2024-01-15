@@ -1,0 +1,14 @@
+-3256|333|-5763|Loch Modan - Grizzlepaw Ridge: 45.8, 69.3
+-3000|361|-5840|Loch Modan - Grizzlepaw Ridge: 36.5, 73.6
+-2904|439|-5573|Loch Modan: 33.0, 59.0
+-3147|358|-5295|Loch Modan - The Loch: 41.8, 43.9
+-3808|376|-5817|Loch Modan - Ironband's Excavation Site: 65.8, 72.3
+-4153|409|-5742|Loch Modan - The Farstrider Lodge: 78.3, 68.2
+-4174|431|-5002|Twilight Highlands - The Twilight Citadel: 33.0, 81.0
+-4174|432|-4999|Twilight Highlands - The Twilight Citadel: 32.9, 80.9
+-4083|377|-4943|Loch Modan - Mo'grosh Stronghold: 75.8, 24.8
+-3548|371|-4703|Loch Modan - Stonewrought Dam: 56.4, 11.8
+-3390|334|-4852|Loch Modan - Twilight Camp: 50.6, 19.9
+-3066|367|-4866|Loch Modan - Silver Stream Mine: 38.9, 20.6
+-2650|380|-4801|Loch Modan - Algaz Station: 23.8, 17.1
+-2613|324|-5803|Loch Modan - Valley of Kings: 22.5, 71.5
