@@ -1,0 +1,30 @@
+-3945|356|1304|Eastern Plaguelands: 41.1, 89.3
+-3683|269|1486|Eastern Plaguelands - Darrowshire: 34.6, 82.5
+-3688|205|1785|Eastern Plaguelands: 34.8, 71.4
+-4186|141|2018|Eastern Plaguelands - The Infectis Scar: 47.1, 62.7
+-4394|126|1831|Eastern Plaguelands - Lake Mereldar: 52.3, 69.7
+-4501|118|1968|Eastern Plaguelands - Corin's Crossing: 54.9, 64.6
+-4443|148|2228|Eastern Plaguelands - Light's Shield Tower: 53.5, 54.9
+-5197|173|1863|Eastern Plaguelands: 72.2, 68.5
+-5689|170|1529|Eastern Plaguelands - Ruins of the Scarlet Enclave: 84.4, 80.9
+-5865|163|2427|Eastern Plaguelands - Ruins of the Scarlet Enclave: 88.8, 47.5
+-5788|326|2632|Eastern Plaguelands - The Noxious Glade: 86.8, 39.9
+-5679|541|2499|Eastern Plaguelands - Acherus: The Ebon Hold: 84.1, 44.8
+-5437|535|2332|Eastern Plaguelands - Light's Hope Chapel: 78.1, 51.0
+-5178|497|2193|Eastern Plaguelands - Pestilent Scar: 71.7, 56.2
+-5183|302|2887|Eastern Plaguelands - Northdale: 71.9, 30.4
+-4825|226|2759|Eastern Plaguelands - Ix'lar's Domain: 63.0, 35.1
+-4819|206|2609|Eastern Plaguelands - Eastwall Tower: 62.8, 40.7
+-4394|191|3123|Eastern Plaguelands - Northpass Tower: 52.3, 21.6
+-4406|188|3214|Eastern Plaguelands - Siege Vise: 52.6, 18.2
+-4709|149|3173|Eastern Plaguelands - Zul'Mashar: 60.1, 19.7
+-4282|228|3332|Eastern Plaguelands - Quel'Lithien Lodge: 49.5, 13.8
+-3888|214|3169|Eastern Plaguelands - Plaguewood: 39.7, 19.9
+-3548|200|3303|Eastern Plaguelands - Stratholme: 31.3, 14.9
+-2780|192|2975|Eastern Plaguelands - Terrordale: 12.2, 27.1
+-3703|296|2520|Eastern Plaguelands - The Fungal Vale: 35.1, 44.1
+-3990|287|2560|Eastern Plaguelands - Blackwood Lake: 42.2, 42.6
+-3285|254|1908|Eastern Plaguelands - The Marris Stead: 24.8, 66.8
+-3182|254|1655|Eastern Plaguelands - The Undercroft: 22.2, 76.2
+-3115|286|1581|Eastern Plaguelands - The Undercroft: 20.5, 79.0
+-2614|263|1965|Western Plaguelands - Thondroril River: 70.5, 48.9
