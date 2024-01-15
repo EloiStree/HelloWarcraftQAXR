@@ -1,0 +1,4 @@
+1784|351|-1239|Ruins of Gilneas - Dreadwatch Outpost: 52.6, 33.7
+1920|363|-1315|Ruins of Gilneas: 48.3, 37.3
+-7006|138|6123|Eastern Plaguelands: 54.4, 8.4
+-7006|138|6123|Ghostlands - Thalassian Pass: 52.2, 97.4
