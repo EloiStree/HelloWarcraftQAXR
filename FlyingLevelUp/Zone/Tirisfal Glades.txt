@@ -1,0 +1,12 @@
+-1104|282|2238|Tirisfal Glades - Venomweb Vale: 91.6, 53.1
+-578|204|2830|Tirisfal Glades - Scarlet Watch Post: 79.9, 33.4
+-25|122|2623|Tirisfal Glades - Brightwater Lake: 67.7, 40.3
+397|182|2713|Tirisfal Glades - Garren's Haunt: 58.3, 37.3
+512|210|2932|Tirisfal Glades - Garren's Haunt: 55.8, 30.0
+1155|357|2274|Tirisfal Glades - Solliden Farmstead: 41.6, 51.9
+853|387|2182|Tirisfal Glades - Stillwater Pond: 48.2, 54.9
+590|417|2126|Tirisfal Glades - Cold Hearth Manor: 54.1, 56.8
+443|445|2294|Tirisfal Glades: 57.3, 51.2
+-323|563|2033|Tirisfal Glades: 74.3, 59.9
+-34|607|1791|Tirisfal Glades - Ruins of Lordaeron: 67.9, 67.9
+959|724|1840|Tirisfal Glades - Nightmare Vale: 45.9, 66.3
