@@ -2,3 +2,15 @@
 1920|363|-1315|Ruins of Gilneas: 48.3, 37.3
 -7006|138|6123|Eastern Plaguelands: 54.4, 8.4
 -7006|138|6123|Ghostlands - Thalassian Pass: 52.2, 97.4
+
+1784|351|-1239|Ruins of Gilneas - Dreadwatch Outpost: 52.6, 33.7
+1920|363|-1315|Ruins of Gilneas: 48.3, 37.3
+-7006|138|6123|Eastern Plaguelands: 54.4, 8.4
+-7006|138|6123|Ghostlands - Thalassian Pass: 52.2, 97.4
+-7196|34|6875|Ghostlands - An'owyn: 58.0, 63.3
+-7403|58|6909|Ghostlands - Zeb'Nowa: 64.2, 61.7
+-7554|82|6875|Ghostlands - Amani Pass: 68.8, 63.2
+-7709|127|6779|Ghostlands - Hatchet Hills: 73.5, 67.6
+-2634|1357|-3867|Wetlands - Thelgen Rock: 54.3, 62.4
+-2777|1209|-4122|Wetlands - Slabchisel's Survey: 57.7, 71.6
+
