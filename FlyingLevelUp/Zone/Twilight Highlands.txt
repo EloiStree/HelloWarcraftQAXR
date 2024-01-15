@@ -3,7 +3,7 @@
 -3399|240|-4303|Twilight Highlands - Grim Batol: 18.3, 61.1
 -3762|224|-4097|Twilight Highlands - Wyrms' Bend: 25.1, 55.2
 -3761|227|-4095|Twilight Highlands - Wyrms' Bend: 25.1, 55.2
--3098|552|-3793|Wetlands - Mosshide Fen: 65.5, 59.7
+
 -3796|333|-4440|Twilight Highlands - Loch Verrall: 25.8, 65.0
 -3793|334|-4439|Twilight Highlands - Loch Verrall: 25.7, 65.0
 
@@ -74,6 +74,6 @@
 -3970|283|-3301|Twilight Highlands - Vermillion Redoubt: 29.1, 32.6
 -3728|170|-3404|Twilight Highlands - Vermillion Redoubt: 24.5, 35.5
 -3725|168|-3404|Twilight Highlands - Vermillion Redoubt: 24.4, 35.5
--3579|133|-3405|Wetlands - Dragonmaw Gates: 77.1, 45.6
--3462|149|-3399|Wetlands - Raptor Ridge: 74.3, 45.4
--3357|171|-3396|Wetlands: 71.8, 45.3
+
+
+
