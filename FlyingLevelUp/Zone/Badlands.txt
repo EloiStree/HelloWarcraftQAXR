@@ -1,0 +1,37 @@
+-2121|468|-6602|Badlands: 7.2, 36.6
+-2125|468|-6603|Badlands - Ruins of Kargath: 7.3, 36.6
+-2405|465|-6698|Badlands - New Kargath: 16.4, 41.3
+-2405|465|-6702|Badlands - New Kargath: 16.4, 41.5
+-2412|477|-6995|Badlands - Mirage Flats: 16.6, 55.8
+-2412|477|-6999|Badlands - Mirage Flats: 16.6, 56.0
+-2415|484|-7161|Badlands - Camp Cagg: 16.7, 63.9
+-2415|484|-7164|Badlands - Camp Cagg: 16.7, 64.1
+-2592|397|-7070|Badlands - Dragon's Mouth: 22.5, 59.4
+-2595|396|-7066|Badlands - Dragon's Mouth: 22.6, 59.3
+-2626|392|-6913|Badlands - The Dustbowl: 23.6, 51.8
+-2626|392|-6909|Badlands - The Dustbowl: 23.6, 51.6
+-3112|406|-6433|Badlands - Angor Fortress: 39.4, 28.3
+-3113|405|-6431|Badlands - Angor Fortress: 39.4, 28.2
+-3144|394|-6403|Badlands - Angor Fortress: 40.5, 26.8
+-3361|360|-6543|Badlands - Hammertoe's Digsite: 47.5, 33.7
+-3365|360|-6544|Badlands - Hammertoe's Digsite: 47.7, 33.7
+-3437|342|-6840|Badlands - Tomb of the Watchers: 50.0, 48.2
+-3437|341|-6837|Badlands - Tomb of the Watchers: 50.0, 48.0
+-3502|263|-6893|Badlands - Bloodwatcher Point: 52.1, 50.8
+-3507|263|-6894|Badlands - Bloodwatcher Point: 52.3, 50.8
+-3319|249|-7022|Badlands - Agmond's End: 46.1, 57.1
+-3321|247|-7019|Badlands - Agmond's End: 46.2, 57.0
+-3857|345|-6924|Badlands - Lethlor Ravine: 63.7, 52.3
+-3860|343|-6925|Badlands - Lethlor Ravine: 63.8, 52.4
+-3937|271|-6977|Badlands - Rhea's Camp: 66.3, 54.9
+-3938|269|-6980|Badlands - Rhea's Camp: 66.3, 55.1
+-4551|222|-6582|Badlands - Fuselight-by-the-Sea: 86.3, 35.6
+-4553|218|-6583|Badlands - Fuselight-by-the-Sea: 86.3, 35.7
+-3982|379|-6589|Badlands - Fuselight: 67.7, 35.9
+-3979|381|-6590|Badlands - Fuselight: 67.7, 36.0
+-3806|368|-6498|Badlands - Dustwind Gulch: 62.0, 31.5
+-3804|366|-6496|Badlands - Dustwind Gulch: 62.0, 31.4
+-3761|290|-6287|Badlands - Camp Kosh: 60.6, 21.2
+-3759|287|-6285|Badlands - Camp Kosh: 60.5, 21.1
+-3354|267|-6121|Badlands - The Maker's Terrace: 47.3, 13.1
+-3352|267|-6118|Badlands - The Maker's Terrace: 47.2, 12.9
