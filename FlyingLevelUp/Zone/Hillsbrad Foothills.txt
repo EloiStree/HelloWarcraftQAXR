@@ -1,0 +1,27 @@
+-1538|360|-577|Hillsbrad Foothills - Durnholde Keep: 69.7, 63.5
+-1266|224|-1138|Hillsbrad Foothills - Dun Garok: 64.1, 80.8
+-1155|147|-963|Hillsbrad Foothills - Dun Garok: 61.8, 75.4
+-578|76|-825|Hillsbrad Foothills - Ruins of Southshore: 49.9, 71.2
+3|54|-941|Hillsbrad Foothills: 38.0, 74.7
+268|52|-952|Hillsbrad Foothills - Azurelode Mine: 32.5, 75.1
+436|91|-1195|Hillsbrad Foothills - Purgation Isle: 29.1, 82.6
+392|212|-619|Hillsbrad Foothills - Southpoint Gate: 30.0, 64.8
+41|246|-506|Hillsbrad Foothills - The Sludge Fields: 37.2, 61.3
+100|269|-229|Hillsbrad Foothills - Sludgeguard Tower: 36.0, 52.8
+176|280|-91|Hillsbrad Foothills - Brazie Farmstead: 34.4, 48.5
+123|349|641|Hillsbrad Foothills - Misty Shore: 35.5, 25.9
+-203|384|947|Hillsbrad Foothills - The Uplands: 42.2, 16.5
+-294|395|1071|Hillsbrad Foothills - Dandred's Fold: 44.1, 12.6
+-522|498|883|Hillsbrad Foothills - Slaughter Hollow: 48.8, 18.4
+-571|521|726|Hillsbrad Foothills - Crushridge Hold: 49.8, 23.3
+-469|533|613|Hillsbrad Foothills - Ruins of Alterac: 47.7, 26.8
+-273|567|219|Hillsbrad Foothills - Growless Cave: 43.7, 38.9
+-137|590|-7|Hillsbrad Foothills - Gavin's Naze: 40.9, 45.9
+-206|602|-101|Hillsbrad Foothills - Gavin's Naze: 42.3, 48.8
+-418|624|-293|Hillsbrad Foothills - Darrow Hill: 46.6, 54.7
+-593|648|-64|Hillsbrad Foothills - Corrahn's Dagger: 50.2, 47.7
+-880|670|-55|Hillsbrad Foothills - Tarren Mill: 56.2, 47.4
+-863|693|212|Hillsbrad Foothills - Sofera's Naze: 55.8, 39.1
+-986|728|623|Hillsbrad Foothills - Strahnbrad: 58.3, 26.5
+-1476|788|770|Hillsbrad Foothills - Chillwind Point: 68.4, 21.9
+-777|880|446|Hillsbrad Foothills - Gallows' Corner: 54.0, 31.9
