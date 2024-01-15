@@ -1,0 +1,19 @@
+-2346|128|1722|Western Plaguelands: 64.3, 57.4
+-2442|161|1529|Western Plaguelands - Darrowmere Lake: 66.5, 64.1
+-2444|164|1527|Western Plaguelands - Darrowmere Lake: 66.5, 64.2
+-2467|173|1489|Western Plaguelands - Darrowmere Lake: 67.1, 65.5
+-2519|174|1401|Western Plaguelands - Caer Darrow: 68.3, 68.6
+-2071|187|1027|Western Plaguelands - Sorrow Hill: 57.9, 81.6
+-1826|192|1062|Western Plaguelands - Path of Uther: 52.2, 80.4
+-1367|207|1319|Western Plaguelands - Andorhal: 41.5, 71.4
+-1816|210|2037|Western Plaguelands - Redpine Dell: 51.9, 46.4
+-2399|356|2045|Western Plaguelands - Malicia's Outpost: 65.5, 46.1
+-2373|382|2176|Western Plaguelands - The Weeping Cave: 64.9, 41.5
+-1927|511|2689|Western Plaguelands - Taelan's Tower: 54.5, 23.6
+-1658|269|2779|Western Plaguelands - Hearthglen: 48.3, 20.5
+-1551|224|2598|Western Plaguelands - Northridge Lumber Camp: 45.8, 26.8
+-1558|142|1817|Western Plaguelands - Dalson's Farm: 45.9, 54.0
+-1181|126|1801|Western Plaguelands - Felstone Field: 37.2, 54.6
+-842|153|1638|Western Plaguelands - The Bulwark: 29.3, 60.3
+-736|160|1657|Tirisfal Glades - The Bulwark: 83.4, 72.4
+-1905|70|1502|Western Plaguelands - The Writhing Haunt: 54.0, 65.0
