@@ -25,3 +25,6 @@
 -986|728|623|Hillsbrad Foothills - Strahnbrad: 58.3, 26.5
 -1476|788|770|Hillsbrad Foothills - Chillwind Point: 68.4, 21.9
 -777|880|446|Hillsbrad Foothills - Gallows' Corner: 54.0, 31.9
+
+
+
