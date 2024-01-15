@@ -1,0 +1,10 @@
+-3579|133|-3405|Wetlands - Dragonmaw Gates: 77.1, 45.6
+-3462|149|-3399|Wetlands - Raptor Ridge: 74.3, 45.4
+-3357|171|-3396|Wetlands: 71.8, 45.3
+-3323|282|-2768|Twilight Highlands - The Circle of Life: 16.8, 17.4
+-3323|282|-2765|Twilight Highlands - The Circle of Life: 16.8, 17.3
+-2997|226|-2751|Wetlands - Direforge Hill: 63.1, 21.9
+-2549|217|-2649|Wetlands - Dun Modr: 52.2, 18.2
+-2774|67|-3218|Wetlands - Greenwarden's Grove: 57.7, 38.8
+-2422|102|-3518|Wetlands - Angerfang Encampment: 49.2, 49.7
+-1561|189|-3607|Wetlands: 28.3, 53.0
