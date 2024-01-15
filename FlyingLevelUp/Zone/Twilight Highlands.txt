@@ -1,0 +1,79 @@
+
+-3400|240|-4307|Twilight Highlands - Grim Batol: 18.3, 61.2
+-3399|240|-4303|Twilight Highlands - Grim Batol: 18.3, 61.1
+-3762|224|-4097|Twilight Highlands - Wyrms' Bend: 25.1, 55.2
+-3761|227|-4095|Twilight Highlands - Wyrms' Bend: 25.1, 55.2
+-3098|552|-3793|Wetlands - Mosshide Fen: 65.5, 59.7
+-3796|333|-4440|Twilight Highlands - Loch Verrall: 25.8, 65.0
+-3793|334|-4439|Twilight Highlands - Loch Verrall: 25.7, 65.0
+
+-4535|307|-4721|Twilight Highlands - The Twilight Gate: 39.8, 73.0
+-4538|303|-4719|Twilight Highlands - The Twilight Gate: 39.9, 72.9
+-4527|144|-4201|Twilight Highlands - The Twilight Gate: 39.7, 58.2
+-4526|142|-4198|Twilight Highlands - The Twilight Gate: 39.6, 58.1
+-4822|143|-4099|Twilight Highlands - Dunwald Hovel: 45.2, 55.3
+-4823|142|-4096|Twilight Highlands - Dunwald Hovel: 45.3, 55.2
+-4889|139|-4417|Twilight Highlands - Black Drake Roost: 46.5, 64.4
+-4890|139|-4421|Twilight Highlands - Black Drake Roost: 46.5, 64.4
+-4887|163|-4534|Twilight Highlands - Dunwald Holdout: 46.5, 67.7
+-4884|164|-4538|Twilight Highlands - Dunwald Holdout: 46.4, 67.8
+-4853|163|-4608|Twilight Highlands - Dunwald Market Row: 45.8, 69.8
+-4853|163|-4608|Twilight Highlands - Dunwald Market Row: 45.8, 69.8
+-5041|198|-4669|Twilight Highlands - Dunwald Town Square: 49.4, 71.5
+-5045|197|-4668|Twilight Highlands - Dunwald Town Square: 49.5, 71.5
+-5374|53|-5102|Twilight Highlands - Obsidian Forest: 55.7, 83.8
+-5374|49|-5103|Twilight Highlands - Obsidian Forest: 55.7, 83.8
+-6433|72|-4855|Twilight Highlands - Obsidian Breakers: 75.8, 76.8
+-6436|72|-4855|Twilight Highlands - Obsidian Breakers: 75.9, 76.8
+-6584|57|-4866|Twilight Highlands - Highbank: 78.7, 77.1
+-6587|59|-4866|Twilight Highlands - Highbank: 78.7, 77.1
+-6624|48|-4567|Twilight Highlands - Highbank: 79.4, 68.6
+-6623|48|-4564|Twilight Highlands - Highbank: 79.4, 68.5
+-6482|171|-4215|Twilight Highlands - Dragonmaw Port: 76.7, 58.6
+-6481|174|-4212|Twilight Highlands - Dragonmaw Port: 76.7, 58.5
+-6079|120|-3918|Twilight Highlands - Verrall Delta: 69.1, 50.1
+-6077|119|-3915|Twilight Highlands - Verrall Delta: 69.1, 50.1
+-5822|90|-3992|Twilight Highlands: 64.2, 52.2
+-5818|90|-3992|Twilight Highlands: 64.1, 52.3
+-5600|43|-4184|Twilight Highlands - Firebeard's Patrol: 60.0, 57.7
+-5598|43|-4186|Twilight Highlands - Firebeard's Patrol: 60.0, 57.8
+-5522|74|-4278|Twilight Highlands - Firebeard's Patrol: 58.5, 60.4
+-5519|74|-4281|Twilight Highlands - Firebeard's Patrol: 58.5, 60.5
+-5240|74|-4301|Twilight Highlands - Highland Forest: 53.2, 61.0
+-5236|74|-4301|Twilight Highlands - Highland Forest: 53.1, 61.0
+-5144|40|-4207|Twilight Highlands - Crucible of Carnage: 51.4, 58.4
+-5143|39|-4205|Twilight Highlands - Crucible of Carnage: 51.3, 58.3
+-5109|37|-4180|Twilight Highlands - Crucible of Carnage: 50.7, 57.6
+-4657|169|-3959|Twilight Highlands - Verrall River: 42.1, 51.3
+-4657|169|-3959|Twilight Highlands - Verrall River: 42.1, 51.2
+-4892|103|-3729|Twilight Highlands - Thundermar Ruins: 46.6, 44.8
+-4896|102|-3728|Twilight Highlands - Thundermar Ruins: 46.6, 44.7
+-5286|114|-3648|Twilight Highlands - Bloodgulch: 54.1, 42.5
+-5290|113|-3648|Twilight Highlands - Bloodgulch: 54.1, 42.4
+-6067|51|-3675|Twilight Highlands: 68.9, 43.2
+-6070|50|-3675|Twilight Highlands: 68.9, 43.2
+-5514|72|-3298|Twilight Highlands - The Black Breach: 58.4, 32.5
+-5511|75|-3297|Twilight Highlands - The Black Breach: 58.3, 32.5
+-6398|160|-2872|Twilight Highlands - The Krazzworks: 75.1, 20.4
+-6400|160|-2869|Twilight Highlands - The Krazzworks: 75.2, 20.3
+-5434|239|-2679|Twilight Highlands - Kirthaven: 56.9, 14.9
+-5436|241|-2681|Twilight Highlands - Kirthaven: 56.9, 15.0
+-5140|313|-2617|Twilight Highlands - The Maw of Madness: 51.3, 13.1
+-5136|311|-2617|Twilight Highlands - The Maw of Madness: 51.2, 13.1
+-4768|226|-2712|Twilight Highlands - Ruins of Drakgor: 44.2, 15.8
+-4767|226|-2715|Twilight Highlands - Ruins of Drakgor: 44.2, 15.9
+-4677|190|-2929|Twilight Highlands - Humboldt Conflagration: 42.5, 22.0
+-4677|188|-2932|Twilight Highlands - Humboldt Conflagration: 42.5, 22.1
+-4995|135|-3201|Twilight Highlands - Thundermar: 48.5, 29.7
+-4998|134|-3200|Twilight Highlands - Thundermar: 48.6, 29.7
+-4621|200|-3268|Twilight Highlands - Glopgut's Hollow: 41.4, 31.7
+-4617|201|-3269|Twilight Highlands - Glopgut's Hollow: 41.4, 31.7
+-4320|334|-3469|Twilight Highlands - The Gullet: 35.7, 37.4
+-4320|334|-3473|Twilight Highlands - The Gullet: 35.7, 37.5
+-3971|284|-3305|Twilight Highlands - Vermillion Redoubt: 29.1, 32.7
+-3970|283|-3301|Twilight Highlands - Vermillion Redoubt: 29.1, 32.6
+-3728|170|-3404|Twilight Highlands - Vermillion Redoubt: 24.5, 35.5
+-3725|168|-3404|Twilight Highlands - Vermillion Redoubt: 24.4, 35.5
+-3579|133|-3405|Wetlands - Dragonmaw Gates: 77.1, 45.6
+-3462|149|-3399|Wetlands - Raptor Ridge: 74.3, 45.4
+-3357|171|-3396|Wetlands: 71.8, 45.3
