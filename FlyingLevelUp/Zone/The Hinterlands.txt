@@ -1,0 +1,16 @@
+-4474|77|-774|The Hinterlands - The Overlook Cliffs: 75.3, 87.3
+-4475|76|-771|The Hinterlands - The Overlook Cliffs: 75.3, 87.2
+-4490|70|-726|The Hinterlands - The Overlook Cliffs: 75.7, 85.5
+-4373|146|136|The Hinterlands - Shaol'watha: 72.7, 51.8
+-4139|174|-237|The Hinterlands - Jintha'Alor: 66.6, 66.4
+-3543|308|-326|The Hinterlands - The Altar of Zul: 51.1, 69.9
+-2964|297|-375|The Hinterlands - Shadra'Alor: 36.1, 71.8
+-2761|203|-36|The Hinterlands - Hiri'watha Research Station: 30.8, 58.6
+-2004|162|195|The Hinterlands - Aerie Peak: 11.2, 49.5
+-2522|251|405|The Hinterlands - Plaguemist Ravine: 24.6, 41.4
+-2762|241|439|The Hinterlands - Quel'Danil Lodge: 30.8, 40.0
+-3146|155|-42|The Hinterlands - Valorwind Lake: 40.8, 58.8
+-3425|186|66|The Hinterlands - The Creeping Ruin: 48.1, 54.6
+-3469|225|353|The Hinterlands - Agol'watha: 49.2, 43.4
+-3666|183|451|The Hinterlands: 54.3, 39.5
+-4158|205|546|The Hinterlands - Seradane: 67.1, 35.9
