@@ -1,0 +1,22 @@
+1816|691|1089|Silverpine Forest: 38.9, 20.6
+1963|574|1223|Silverpine Forest - The Skittering Dark: 35.4, 15.8
+1569|489|1159|Silverpine Forest - Forsaken Rear Guard: 44.8, 18.1
+1221|428|1264|Silverpine Forest - The Ivar Patch: 53.1, 14.4
+1096|407|1352|Silverpine Forest - Forsaken High Command: 56.0, 11.2
+545|322|1465|Silverpine Forest - The Shining Strand: 69.2, 7.2
+469|301|1332|Silverpine Forest - Lordamere Lake: 71.0, 11.9
+468|261|1112|Silverpine Forest - Fenris Isle: 71.0, 19.8
+1127|156|858|Silverpine Forest - The Decrepit Fields: 55.3, 28.9
+1069|134|964|Silverpine Forest - Valgan's Field: 56.7, 25.1
+1041|245|376|Silverpine Forest - Deep Elem Mine: 57.3, 46.1
+407|164|297|Hillsbrad Foothills - Dalaran Crater: 29.7, 36.5
+749|298|-160|Silverpine Forest - Ambermill: 64.3, 65.2
+909|182|-374|Silverpine Forest - Beren's Peril: 60.5, 72.9
+1144|176|-654|Silverpine Forest: 54.9, 82.9
+1221|163|-878|Ruins of Gilneas - The Greymane Wall: 70.5, 16.5
+1465|114|-919|Ruins of Gilneas - Northern Headlands: 62.7, 18.4
+1578|73|-453|Silverpine Forest - Pyrewood Village: 44.6, 75.7
+1359|92|-260|Silverpine Forest - The Forsaken Front: 49.8, 68.8
+1507|141|-205|Silverpine Forest - Shadowfang Keep: 46.3, 66.9
+1657|311|314|Silverpine Forest: 42.7, 48.3
+1477|206|496|Silverpine Forest - The Sepulcher: 47.0, 41.8
